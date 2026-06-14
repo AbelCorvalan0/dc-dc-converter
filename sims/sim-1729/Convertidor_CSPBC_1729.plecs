@@ -425,7 +425,7 @@ Plecs {
       LabelPosition west
       Parameter {
         Variable      "C"
-        Value         "16e-6"
+        Value         "12e-6"
         Show          off
       }
       Parameter {
@@ -444,7 +444,7 @@ Plecs {
       LabelPosition west
       Parameter {
         Variable      "C"
-        Value         "16e-6"
+        Value         "12e-6"
         Show          off
       }
       Parameter {
